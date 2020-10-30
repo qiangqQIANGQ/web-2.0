@@ -1,0 +1,12 @@
+<!DOCTYPE html>					<!--文档类型：符合HTML5标准-->
+<html lang="en">				<!--lang属性：搜索引擎，en为英文，zh为中文-->
+	<head>
+		<meta charset="UTF-8">	<!--meta为：元数据-->
+								<!--charset属性：字符集编码方式-->
+								<!--浏览器：UTF-8是国际编码-->
+		<title>
+		</title>
+	</head>
+	<body>
+	</body>
+</html>

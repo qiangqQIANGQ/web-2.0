@@ -1,0 +1,7 @@
+查看网页方式：双击card.html文件
+查看源代码方式：
+1.打开card.html进入网页后鼠标向下滚动。
+2.左键单击card.html选中，右键-打开方式-记事本。
+3.使用html编辑器打开。
+4.github:https://github.com/qiangqQIANGQ/qiangqQIANGQ
+（不同浏览器或端打开网页或出现元素错位的情况，images文件夹里那张截屏是我做的正确排版~~）
